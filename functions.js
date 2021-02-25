@@ -4,7 +4,11 @@
 // 3, 4, 5 geeft 12
 // 11, 3, 9 geeft 23
 
+function addNumbers(x, y, z){
+    const addNumbers = x+y+z;
+}
 
+console.log(ad)
 
 /* Opdracht 2 */
 // Schrijf een functie die twee strings verwacht en deze aan elkaar geplakt teruggeeft.
